@@ -1,8 +1,6 @@
 <?php
 declare(strict_types = 1);
 
-require 'vendor/autoload.php';
-
 
 
 foreach (glob("src/Persons/*.php") as $filename)
